@@ -15,8 +15,3 @@ A simple machine learning project to classify Iris flowers using scikit-learn.
 ```bash
 pip install -r requirements.txt
 python main.py
-```
-
-## Dataset
-
-Uses the built-in Iris dataset from scikit-learn.
